@@ -4,3 +4,4 @@ resolusi adalah perkembangan belajar web bersama WPU
 - membuat platform untuk mengelola pembelajaran
 - Juni 2021 harus selesai belajar
 - Juli 2021 belajar flutter
+-tahun 2022 pindah kerja
